@@ -2,7 +2,6 @@
 
 <p align="center">
 <h1 align="center"> Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">, I am Idle Boy </h1>
-<h3 align="center">A young-dumb 🤓 Indian.</h3>
 </p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Rahul24610?style=social)](https://twitter.com/intent/follow?screen_name=Rahul24610)
