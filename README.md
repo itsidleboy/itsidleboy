@@ -1,4 +1,4 @@
-<div align="center"> ![MasterHead](https://cdn.discordapp.com/attachments/938314788814094376/1037776649908928583/3c1d845d56a94e4b01cfa383736f2409.gif) </div>
+![MasterHead](https://cdn.discordapp.com/attachments/938314788814094376/1037776649908928583/3c1d845d56a94e4b01cfa383736f2409.gif)
 
 <p align="center">
 <h1 align="center"> Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">, I am Idle Boy </h1>
