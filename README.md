@@ -12,7 +12,7 @@
 [![DEV Badge](https://img.shields.io/badge/-DEV-c14438?style=social&logo=Dev.to&logoColor=black&link=https://dev.to/iamrahul24)](https://dev.to/iamrahul24)
 
 [![wakatime](https://wakatime.com/badge/user/705a3d8c-3b44-42dc-b1ab-538ae517a186.svg)](https://wakatime.com/@705a3d8c-3b44-42dc-b1ab-538ae517a186)
-[![ProfileViews](https://komarev.com/ghpvc/?username=idleboy4038&color=red&style=flat)](https://komarev.com/ghpvc/?username=idleboy4038)
+[![ProfileViews](https://komarev.com/ghpvc/?username=idleboy4038&color=red&style=flat)](https://komarev.com/ghpvc/?username=idleboy4038) ![status](https://api.statusbadges.me/badge/status/389799943121928192?simple=true) ![playing](https://api.statusbadges.me/badge/playing/389799943121928192) ![vscode](https://api.statusbadges.me/badge/vscode/389799943121928192) [![spotify](https://api.statusbadges.me/badge/spotify/389799943121928192)](https://api.statusbadges.me/openspotify/389799943121928192) ![crunchyroll](https://api.statusbadges.me/badge/crunchyroll/389799943121928192)
 
 ## About Me
 
