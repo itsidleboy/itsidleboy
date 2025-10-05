@@ -18,8 +18,6 @@
 
 I want to learn few programming languages but I am never able to learn any language. In my free time I try to make Discord Bots, Websites, and mess-up with some codes. 
 
-I am also learning Japanese and I have a Japanese - English server called [Ukiyo](https://discord.gg/dVWKSnnGp2).
-
 ## 📈 Stats
 
 ![Idle Boy's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsidleboy&theme=tokyonight&show_icons=true)
